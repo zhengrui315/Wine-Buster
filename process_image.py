@@ -42,8 +42,8 @@ import os.path
 #    print "No such file '%s'" % input_file
 #    sys.exit()
 
-input_file = "../sample1/UCD_Lehmann_0015.jpg"
-output_file= "no_noise_UCD_Lehmann_0015.jpg"
+input_file = "../sample1/UCD_Lehmann_0347.jpg"
+output_file= "no_noise_UCD_Lehmann_0347.jpg"
 
 
 
