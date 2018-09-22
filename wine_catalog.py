@@ -3,7 +3,6 @@
 
 # Check [pytesseract](https://pypi.org/project/pytesseract/).
 
-# In[13]:
 
 
 from pytesseract import *
